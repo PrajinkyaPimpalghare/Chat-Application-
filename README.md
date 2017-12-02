@@ -1,5 +1,5 @@
 # Chat-Application-
-[Chat Application] Chat application with GUI and multiple message sending feature.
+[Chat Application] Chat application with GUI and multiple message sending feature using Python.
 
 Important Notes:
 1> Its with GUI , thats the good thing and "Its is with multile message feature, where back to message can be send from the same user"
